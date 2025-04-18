@@ -7,7 +7,8 @@ Googleカレンダーの予定をGoogleスプレッドシートに自動出力�
 
 以下のような形式でスプレッドシートに予定を記入しています。ご参考ください。
 
-<img src="https://github.com/user-attachments/assets/99d90248-9c5d-4819-94f3-0f28c2b8446b" alt="todo_spreadsheet_sample_20250418" width="760" />
+<img width="729" alt="todo_spreadsheet_smple_20250418" src="https://github.com/user-attachments/assets/a9392d4d-5052-4a18-b240-d6ce0c102167" />
+
 
 ## ✨ 主な機能
 
